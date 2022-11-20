@@ -5,5 +5,9 @@ public class GitProgram {
 		System.out.println("hi");
 
 	}
+	public void test1() {
+		System.out.println("abi");
+
+	}
 	
 }
