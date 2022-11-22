@@ -10,8 +10,6 @@ public class GitProgram {
 
 	}
 	
-	
-	
 	public void test2() {
 		System.out.println("abi");
 		System.out.println("abi loosu");
